@@ -1,0 +1,23 @@
+{
+  "author": "Manoj S",
+  "bin": {
+    "pls": "ctrl.js"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "prompt": "^1.0.0",
+    "shelljs": "^0.7.6",
+    "underscore": "^1.8.3"
+  },
+  "description": "Helps in logging into boxes",
+  "keywords": [
+    "cyberark"
+  ],
+  "license": "ISC",
+  "main": "ctrl.js",
+  "name": "cyberarklogin",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
